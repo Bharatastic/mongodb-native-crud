@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "66e80badf9a854b894c73bfc"
+  },
+  "title": "The Way of Kings",
+  "author": "Brandon Sanderson",
+  "rating": 6,
+  "pages": 350,
+  "genres": [
+    "fantasy"
+  ],
+  "review": [
+    {
+      "name": "Yoshi",
+      "body": "Great Book!!"
+    },
+    {
+      "name": "Mario",
+      "body": "So So "
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e80c2ff9a854b894c73bfd"
+  },
+  "title": "The Light Fantastic",
+  "author": "Terry Pratchet",
+  "pages": 250,
+  "rating": 6,
+  "genres": [
+    "fantasy",
+    "magic"
+  ],
+  "reviews": [
+    {
+      "name": "Luigi",
+      "body": "It was pretty good"
+    },
+    {
+      "name": "Bowser",
+      "body": "Loved It!!!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e80c2ff9a854b894c73bfe"
+  },
+  "title": "The Name of the Wind",
+  "author": "Patrick Rothfuss",
+  "pages": 500,
+  "rating": 10,
+  "genres": [
+    "fantasy"
+  ],
+  "reviews": [
+    {
+      "name": "Peach",
+      "body": "One of my favs"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e80c2ff9a854b894c73bff"
+  },
+  "title": "The Color of Magic",
+  "author": "Terry Pratchet",
+  "pages": 300,
+  "rating": 6,
+  "genres": [
+    "fantasy",
+    "magic"
+  ],
+  "reviews": [
+    {
+      "name": "Luigi",
+      "body": "It was OK"
+    },
+    {
+      "name": "Bowser",
+      "body": "Really good book"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e80c2ff9a854b894c73c00"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "pages": 300,
+  "rating": 6,
+  "genres": [
+    "sci-fi",
+    "dystopian",
+    "fantasy",
+    "1",
+    "2"
+  ],
+  "reviews": [
+    {
+      "name": "Peach",
+      "body": "Not my cup of tea"
+    },
+    {
+      "name": "Mario",
+      "body": "Meh"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e93e78196226dbf1c47727"
+  },
+  "title": "The Final Empire",
+  "author": "Brandon Sanderson",
+  "rating": 9,
+  "pages": 420,
+  "genres": [
+    "fantasy",
+    "magic"
+  ],
+  "reviews": [
+    {
+      "name": "Shaun",
+      "body": "Couldn't put this book down."
+    },
+    {
+      "name": "Chun-li",
+      "body": "Love it."
+    }
+  ]
+}]
